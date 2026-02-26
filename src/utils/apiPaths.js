@@ -1,4 +1,4 @@
-export const BASE_URL = "https://lux-ledger-chi.vercel.app";
+export const BASE_URL = "https://luxledger-server.vercel.app/";
 
 //utils/apiPaths.js
 export const API_PATHS = {
